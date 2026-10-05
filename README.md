@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Human-Capital-Management-HCM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Capital-Management-HCM?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Human-Capital-Management-HCM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Capital-Management-HCM?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Capital-Management-HCM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Human-Capital-Management-HCM?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Human-Capital-Management-HCM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Human-Capital-Management-HCM?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,7 +59,7 @@ Below is a curated breakdown of enterprise and mid-market commercial HCM SaaS pr
 
 ## 🔓 Open-Source GitHub Projects
 
-Viable self-hosted and open-source options for mid-market organizations, privacy-conscious teams, and developers wanting complete control over employee master records. Sorted in **descending order by GitHub star count**.
+Viable self-hosted and open-source options for mid-market organizations, privacy-conscious teams, and developers wanting complete control over employee master records. Sorted in **descending order by GitHub Stars_Count**.
 
 * **[Odoo HR](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a>  
   Open-source HR applications inside the Odoo ERP suite—employee master, recruitment, leave/time-off, appraisals, expenses, and payroll integrations.
@@ -121,3 +121,12 @@ Thank you for visiting and supporting this project! If you find this curated Hum
 <p align="center">
   Made with ❤️ for HR Leaders, People Ops Professionals, and Open-Source Advocates worldwide.
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Human-Capital-Management-HCM&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Human-Capital-Management-HCM_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Human-Capital-Management-HCM_growth.svg">
+  </picture>
+</a>
